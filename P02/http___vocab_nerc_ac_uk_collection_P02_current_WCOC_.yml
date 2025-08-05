@@ -3,7 +3,7 @@ labels:
   original: WC_Orgcontam
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentration parameters for carbon compounds regarded as environmentally
     harmful in solution or suspension (i.e.includes measurements in both the dissolved
@@ -11,10 +11,10 @@ labels:
     in other specific categories
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of other organic contaminants in the water column
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/WCOC/2/
