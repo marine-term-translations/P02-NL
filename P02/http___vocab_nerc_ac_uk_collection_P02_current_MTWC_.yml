@@ -3,17 +3,17 @@ labels:
   original: Met_WC_Coll
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentrations of metal elements in the colloidal phase of the water column.
     Usually the dissolved concentration difference between conventionally filtered
     water and ultra-filtered water.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Colloidal metal concentrations in the water column
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/MTWC/1/
