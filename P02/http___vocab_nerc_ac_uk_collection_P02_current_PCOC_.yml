@@ -3,7 +3,7 @@ labels:
   original: SPM_Orgcontam
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: '''Other'' organic contaminant (substances regarded as harmful other than
     PCBs and PAHs) concentrations in suspended particulate material, regarded as anything
@@ -12,10 +12,10 @@ labels:
     of the water column in the particulate phase.'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of other organic contaminants in suspended particulate material
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/PCOC/1/

@@ -3,17 +3,17 @@ labels:
   original: PalaeoInd
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameterisations that describe climatic conditions in the past.  Includes
     climate indices, climate indicators and indirect measurements of climate-related
     phenomena such as sea level and water table depth.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Palaeoclimatic indicators and parameters
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/PCLM/2/
