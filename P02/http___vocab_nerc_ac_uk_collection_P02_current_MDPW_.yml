@@ -3,7 +3,7 @@ labels:
   original: Metoid_SedPW
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentration parameters for trace metalloid elements and inorganic selenium
     species in water occupying the space between sediment grains. Trace metalloids
@@ -11,11 +11,11 @@ labels:
     because of its major role in environmental chemistry).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Trace metalloid and inorganic selenium concentrations in sediment pore
     water
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/MDPW/4/

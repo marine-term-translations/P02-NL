@@ -3,17 +3,17 @@ labels:
   original: Biota_Other_Subst
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: '''Other''  (than metals or organic contaminants) substance concentrations
     in either whole organisms or their constituent parts.  This is a ''bucket'' grouping
     that may be reclassified as the dictionary developes.'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of other substances in biota
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/BCOS/1/
