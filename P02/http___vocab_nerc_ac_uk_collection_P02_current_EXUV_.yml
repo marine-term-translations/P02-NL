@@ -3,17 +3,17 @@ labels:
   original: WC_Biodetritus
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters quantifying and categorising biological detritus (eg exuvia
     and faecal pellets) in the water column that have been derived from the water
     column
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Biological detritus in the water column suspended particulate material
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/EXUV/1/

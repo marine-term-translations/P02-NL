@@ -3,17 +3,17 @@ labels:
   original: WC_NO3
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Nitrate concentration parameters (including statistical parameters such
     as standard deviation) in the water column. Includes nitrate+nitrite, which is
     often loosely referred to as nitrate.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Nitrate concentration parameters in the water column
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/NTRA/3/
