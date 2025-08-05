@@ -3,17 +3,17 @@ labels:
   original: PhytoGenAbundWater
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Any enumeration (e.g. count, abundance) of free-floating autotrophic biological
     entities designated by terms other than taxonomic names (e.g. microphytoplankton,
     ciliate, flagellate) in any body of fresh or salt water.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Phytoplankton generic abundance in water bodies
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/PNTX/4/

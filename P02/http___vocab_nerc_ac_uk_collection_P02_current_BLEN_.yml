@@ -3,7 +3,7 @@ labels:
   original: Animal_morph
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Morphological parameters of zooplankton and zoobenthos (essentially any
     animal except for insects, earthworms or fish), such as size, shape and weight.  Benthic
@@ -11,10 +11,10 @@ labels:
     overlap (eg shrimps).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Zooplankton and zoobenthos morphological parameters
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/BLEN/3/
