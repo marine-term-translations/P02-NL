@@ -3,17 +3,17 @@ labels:
   original: Biota_Orgcontam
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentration parameters for carbon compounds regarded as environmentally
     harmful in either whole organisms or their constituent parts that are not included
     in other categories
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of other organic contaminants in biota
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/BCOC/2/

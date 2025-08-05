@@ -3,7 +3,7 @@ labels:
   original: Fish_taxa_count
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Fish (Osteichthyes, Agnatha and Chrondrichthyes) count parameters presented
     at the level of taxa that may be mapped to entities in a standard taxonomy registry
@@ -11,10 +11,10 @@ labels:
     Count includes presence/absence indicators.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Fish taxonomy-related counts
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/FCNT/5/
