@@ -3,17 +3,17 @@ labels:
   original: Riv_flow_discharge
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters related to the volume of water passing through a point in a
     river system per unit time, including the rates of freshwater, dissolved material
     and particulate load discharge from a river into the sea.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: River flow and discharge
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/RVDS/2/
