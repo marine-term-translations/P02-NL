@@ -3,16 +3,16 @@ labels:
   original: WC_Terrdetritus
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters quantifying and categorising terrestrially-derived detritus
     (eg dust and pollen) in the water column
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Terrestrial detritus in the water column suspended particulate material
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/TD00/1/
