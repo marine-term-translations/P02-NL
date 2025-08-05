@@ -3,17 +3,17 @@ labels:
   original: Precip_Chem
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentration of any chemical species in water collected from the atmosphere.  Includes
     rain, snow, hail and fog but excludes cloud samples or snow accumulations on the
     ground.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Precipitation chemistry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/RWCH/2/
