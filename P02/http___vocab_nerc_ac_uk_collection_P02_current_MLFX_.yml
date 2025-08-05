@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Metal_flux
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying metal and metalloid fluxes as element concentration
+    or isotope activities per unit area per unit time
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Sedimentation flux of metallic and metalloid elements and isotopes in
+    water bodies
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MLFX/2/

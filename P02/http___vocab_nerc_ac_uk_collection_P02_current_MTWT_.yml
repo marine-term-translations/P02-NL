@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Met_WC_Tot
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentration parameters for metal elements in the combined dissolved
+    and particulate phases of any body of fresh or salt water.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Total metal concentrations in water bodies
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MTWT/2/

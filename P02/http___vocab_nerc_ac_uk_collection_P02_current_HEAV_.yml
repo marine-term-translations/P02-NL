@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WaveHeight
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Measurements of wave height that are not based on the statistical analysis
+    of wave records, such as heave, surface roughness and visual height estimates
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Wave height estimates
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/HEAV/1/

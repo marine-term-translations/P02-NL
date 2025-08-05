@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: WindStrenDir
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying the extent or direction of atmospheric movement.
+    Obvious examples are wind velocity, windspeed and wind direction, but can also
+    include derived parameters such as force, energy, power and power density.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Wind strength and direction
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/EWSB/3/

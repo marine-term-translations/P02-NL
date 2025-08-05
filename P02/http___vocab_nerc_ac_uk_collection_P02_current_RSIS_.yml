@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Resistivity
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying the electrical properties of geological units in
+    the field. Includes parameters used to determine resistivity structure for shallow
+    sediment properties, porosities and presence of hydrocarbon (CSEM), deeper crust
+    and mantle studies (Magnetotellurics) and ore body location (polarisation).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Field resistivity,  electromagnetics  and polarisation
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/RSIS/2/

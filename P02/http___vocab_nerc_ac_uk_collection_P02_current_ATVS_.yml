@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: AtmosVis
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters relating to atmospheric clarity, such as optical transmittance/attenuance,
+    and resultant visibility
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Atmospheric visibility and transparency
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/ATVS/1/

@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: SPM_Properties
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters that do not easily fit into any of the other SPM data categories.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Other physical and chemical properties of suspended particulate material
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/DENS/2/

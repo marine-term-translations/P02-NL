@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: WC_PAH
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: PAH concentrations in all phases of the water column. This group includes
+    concentrations per unit volume of the water column in the particulate phase, but
+    not concentrations per unit wieght of SPM.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of polycyclic aromatic hydrocarbons (PAHs) in the water
+    column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/PCHW/2/

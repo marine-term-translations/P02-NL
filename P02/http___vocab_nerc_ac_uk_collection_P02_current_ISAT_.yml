@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Iso_Atmos
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Stable isotope parameters (concentrations, ratios and enrichments) in
+    both the gaseous and aerosol phases of the atmosphere.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Stable isotopes in the atmosphere
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/ISAT/3/

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: RadarBScatter
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Includes all parameters covering the strength of emitted microwave radiation
+    return, including absolute measurements of returning signal strength as well as
+    parameters expressed as backscatter (the proportion of transmitted signal returned)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Radar backscatter
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/RBSC/1/

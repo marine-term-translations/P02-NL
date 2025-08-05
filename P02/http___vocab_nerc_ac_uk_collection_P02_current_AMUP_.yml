@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Reg_prod
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying the uptake rate of nitrogen from excretion products
+    (ammonium and urea) by flora and fauna living in any body of salt or fresh water
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Regenerated production in water bodies
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/AMUP/2/

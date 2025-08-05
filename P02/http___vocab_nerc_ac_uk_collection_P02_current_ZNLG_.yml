@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WC_MetalLigand
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters concerned with the complexation of metals as ligands in the
+    water column
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Metal ligand parameters in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/ZNLG/1/

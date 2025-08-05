@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Silic_At
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentration of inorganic silicon species (element or compounds) in any
+    phase of the atmosphere
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Inorganic silicon species concentrations in the atmosphere
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SIAT/1/

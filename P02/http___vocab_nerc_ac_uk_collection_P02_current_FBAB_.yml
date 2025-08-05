@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: Fish_tax_aubund_bed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Fish (Osteichthyes, Agnatha and Chondrichthyes) abundance per unit area
+    of bed (sea, river, lake etc.) parameters presented at the level of taxa that
+    may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes
+    animals normally considered as planktonic if they have been returned from sediment
+    samples.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Fish taxonomy-related abundance per unit area of the bed
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/FBAB/2/

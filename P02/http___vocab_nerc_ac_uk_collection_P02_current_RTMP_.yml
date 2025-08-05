@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: RockTemp
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters that describe the distribution of the degree of hotness within
+    geologic units of lithified sedimentary, igneous of metamorphic rock.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Rock temperature
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/RTMP/2/

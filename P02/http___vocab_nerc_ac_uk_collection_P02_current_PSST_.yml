@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Skin_temp
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Temperature of the water column surface as measured by a radiometer.  It
+    does NOT include temperature measurements in the upper few metres of the water
+    column such as thermosalinograph data
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Skin temperature of the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/PSST/1/

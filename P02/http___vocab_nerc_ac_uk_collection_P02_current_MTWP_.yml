@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Met_WC_Part
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentration parameters for metallic elements in the particulate phase
+    of the water column collected by fitration, centrifugation or sediment trapping
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Particulate metal concentrations in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MTWP/4/

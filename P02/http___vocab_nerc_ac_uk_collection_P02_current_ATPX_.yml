@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Aden_WC
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentrations of adenylates (ADP, ATP etc) in all phases of the water
+    column
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of adenylates in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/ATPX/2/

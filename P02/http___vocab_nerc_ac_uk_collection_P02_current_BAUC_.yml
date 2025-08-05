@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: BactTaxaAbundSed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Any enumeration of bacteria (Kingdom Monera so includes cyanobacteria)
+    designated by taxonomic names (e.g. species, genus, family) in any soil or sediment.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Bacteria taxonomic abundance in sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/BAUC/4/

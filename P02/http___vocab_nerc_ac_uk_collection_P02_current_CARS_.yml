@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Sed_CarotPig
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Sediment includes anything collected by a grab or corer, including the
+    fluff layer from the top of the consolidated sediment
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Carotenoid pigment concentrations in sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/CARS/1/

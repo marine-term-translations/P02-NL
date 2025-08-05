@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: WC_NontaxMicrozooCarbBiomass
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Basically, any microzooplankton carbon biomass measurement that isn't
+    included in parameter group MATC.  May include data integrations such as 'total
+    microzooplankton'.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Microzooplankton non taxonomy-related biomass expressed as carbon per
+    unit volume of the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MZBC/2/

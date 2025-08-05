@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PoreWat_S
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentration parameters (including saturation if gaseous) for inorganic
+    sulphur species in all phases of sediment pore waters
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of inorganic sulphur species in sediment pore water
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SPHT/1/

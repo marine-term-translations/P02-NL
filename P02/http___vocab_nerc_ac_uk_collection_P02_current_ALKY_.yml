@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: WC_Alk+Ac+pH
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying the hydrogen ion concentration in water bodies
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Alkalinity, acidity and pH of the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/ALKY/2/

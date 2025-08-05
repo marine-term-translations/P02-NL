@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Horiz_Plat_Vel
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: All parameters relating to horizontal platform travel, including distance
+    run
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Horizontal platform movement
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/APDA/1/

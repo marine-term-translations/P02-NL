@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: HazNav
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters describing the location, nature and extent of objects that
+    pose a threat to travel on the water column such as wrecks and obstructions
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Hazards to navigation
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/HZNV/1/

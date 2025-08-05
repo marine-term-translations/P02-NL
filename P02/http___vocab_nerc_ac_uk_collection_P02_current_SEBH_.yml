@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Seal_Behav
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters describing the actions or reactions, usually in response to
+    the environment, of true seals (Phocidae), eared seals (Otariidae) and walruses
+    (Odobenidae).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Seal behaviour
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SEBH/3/

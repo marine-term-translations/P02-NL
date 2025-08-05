@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Atm_O3_Oxy
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Ozone and oxygen concentration parameters in any phase of the atmosphere
+    (but usually the gaseous phase)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Ozone and oxygen concentrations in the atmosphere
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/OZON/1/

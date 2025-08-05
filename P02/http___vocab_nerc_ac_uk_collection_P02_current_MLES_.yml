@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: MarLeisUse
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying the extent and nature of recreational activities
+    in coastal waters, estuaries and their margins such as beaches.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Marine environment leisure usage
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MLES/1/

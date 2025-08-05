@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WC_BactProd
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters related to bacterial production determination by measurement
+    of dissolved organic molecule (e.g. leucine, thymidine) uptake rates
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Bacterial production in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/UPTH/1/

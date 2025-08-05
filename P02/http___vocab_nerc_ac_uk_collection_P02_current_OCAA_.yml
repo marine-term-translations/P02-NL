@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: AtmosOrgContam
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying concentrations of organic contaminants (substances
+    regarded as harmful) other than PCBs and PAHs in all phases of the atmosphere
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of other organic contaminants in the atmosphere
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/OCAA/1/

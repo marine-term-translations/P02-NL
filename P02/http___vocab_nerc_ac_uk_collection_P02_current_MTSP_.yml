@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Met_SPM
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentrations of metal elements in suspended particulate material collected
+    by water column filtration, centrifugation or sediment trapping. Deprecated as
+    semantic overlap with MTWP.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Metal concentrations in suspended particulate material
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MTSP/1/

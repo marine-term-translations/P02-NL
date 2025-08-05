@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: 2DSeisReflec
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters relating to structure beneath sea-bed determined by the reflection
+    of seismic energy along a single track.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Two-dimensional seismic reflection
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SR2D/2/

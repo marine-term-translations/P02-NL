@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: SealRepr
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters related to the reproduction of true seals (Phocidae), eared
+    seals (Otariidae) and walruses (Odobenidae).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Seal reproduction
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/GP025/3/

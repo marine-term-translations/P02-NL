@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Side_Scan
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A technique for mapping the morphology of the seafloor using a sonar swath
+    projected sideways from a towed underwater vehicle.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Side-scan sonar
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SSCN/1/

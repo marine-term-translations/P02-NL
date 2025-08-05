@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Sed_PAH
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: PAH concentrations in sediment, which is considered to be anything from
+    the bed sampled by a grab or corer, including 'fluff'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of polycyclic aromatic hydrocarbons (PAHs) in sediment samples
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SCAH/1/

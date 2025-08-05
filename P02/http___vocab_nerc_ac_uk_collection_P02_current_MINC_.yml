@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Min_chem
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Chemical analyses of minerals extracted from rocks or sediment or analysed
+    in-situ using techniques like the electron microprobe.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Mineral chemistry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MINC/1/

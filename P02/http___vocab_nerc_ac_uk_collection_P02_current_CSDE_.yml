@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WC_OrgSulphDyn
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters relating to the rates of creation and consumption of organic
+    sulphur compounds (such as DMS and carbonyl sulphide) in the water column
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Organic sulphur compound dynamics in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/CSDE/1/

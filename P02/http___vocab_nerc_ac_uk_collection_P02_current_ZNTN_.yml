@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Zoo_nontaxa_N_biomass
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Zooplankton (mesozooplankton plus larger pelagic animals excluding fish,
+    reptiles and mammals) nitrogen biomass per unit volume parameters not included
+    in group ZCTC.  Usually used for generic names such as 'mesozooplankton'.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Zooplankton non taxonomy-related biomass expressed as nitrogen per unit
+    volume of the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/ZNTN/2/

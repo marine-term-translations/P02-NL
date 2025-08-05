@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Bird_taxa_abund
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Bird (Class Aves) abundance per unit area (of land or sea) presented at
+    the level of taxa that may be mapped to entities in a standard taxonomy registry
+    such as WoRMS or ITIS.These may be at any taxonomic level from sub-species upwards.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Bird taxonomy-related abundance per unit area of surface
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/BRDD/2/

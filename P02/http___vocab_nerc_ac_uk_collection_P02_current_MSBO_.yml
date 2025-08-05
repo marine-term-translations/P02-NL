@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WC_ZooAFDWBiomass
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Zooplankton (mesozooplankton and larger, exclusing fish, mammals, reptiles
+    and insects) biomass determined by gravimetric measurement of loss on ignition
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Zooplankton ash-free dry weight biomass per unit volume of the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MSBO/2/

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: DissInorgN
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Total concentration of all dissolved inorganic nitrogen species in the
+    water column, usually derived by summation of individual nutrient concentrations
+    (NO3+NO2+NH4). Some workers may also include urea.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Dissolved inorganic nitrogen concentration in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/TDIN/1/

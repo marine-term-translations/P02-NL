@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: GeoTech
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying the properties of rocks and sediments that are
+    relevance to engineering such as physical strength and load-bearing capacity.  Includes
+    the disciplines of rock mechanics and soil mechanics.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Geotechnics
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/GTCH/1/

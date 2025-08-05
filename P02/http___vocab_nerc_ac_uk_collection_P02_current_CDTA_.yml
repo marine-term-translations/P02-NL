@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Air_temp
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying the degree of hotness of the atmosphere.  Specifically
+    excludes indirect measurements of other parameters such as wet bulb temperatures.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Air temperature
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/CDTA/2/

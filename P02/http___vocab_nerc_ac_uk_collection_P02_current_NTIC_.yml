@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: NO3_Ice
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Nitrate concentration parameters in ice. Includes nitrate+nitrite, which
+    is often loosely referred to as nitrate.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of nitrates in ice
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/NTIC/2/

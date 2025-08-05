@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: SedPoreWat_Nuts
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Nutrient (nitrate, nitrite, ammonium, phosphate, silicate and urea) concentrations
+    in sediment pore waters
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Nutrient concentrations in sediment pore waters
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/NTPW/1/

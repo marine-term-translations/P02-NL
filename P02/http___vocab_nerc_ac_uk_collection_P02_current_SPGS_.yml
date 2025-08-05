@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: SPM_GrSize
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Includes all SPM grain size measurements and derived statistics
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Suspended particulate material grain size parameters
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SPGS/1/

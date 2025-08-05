@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Zoobenth_Tax_Litabund
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Any zoobenthos abundance per unit area of the littoral zone (between spring
+    tide high and low water) parameters that are not fish or terrestrial animals (insecta/oligochaeta)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Zoobenthos taxonomy-related abundance per unit area of the littoral zone
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MFLZ/2/

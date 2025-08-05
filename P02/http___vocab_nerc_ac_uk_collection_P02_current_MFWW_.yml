@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: ZoobenthNontaxWetWtBiomass
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Any zoobenthos wet weight biomass per unit area of the seabed parameters
+    that are not included in parameter group ZWTX.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Zoobenthos non taxonomy-related wet weight biomass per unit area of the
+    bed
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/MFWW/2/

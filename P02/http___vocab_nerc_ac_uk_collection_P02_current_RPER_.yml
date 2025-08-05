@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: RockPoros
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parmeters describing the space for fluids or gases within a geologic unit
+    comprising lithified sediments, igneous rock or metamorphic rock.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Rock porosity and permeability
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/RPER/2/

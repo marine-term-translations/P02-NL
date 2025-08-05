@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: WC_SedFluxCells
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Fluxes expressed as number per unit area per unit time of any biota or
+    remains thereof (excluding faecal pellets which are classed as SPM) downwards
+    through the water column
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Sedimentation flux of identified biota in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/PNFX/2/

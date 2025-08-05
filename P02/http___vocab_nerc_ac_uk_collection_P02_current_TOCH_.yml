@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: CarbPhenolAlkanolAldKetWater
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentrations of carbohydrates, phenols, alkanols (alcohols), aldehydes
+    and simple (non-alkenone) ketones in all phases of any body of fresh or salt water
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of carbohydrates, phenols, alkanols (alcohols), aldehydes
+    and ketones in water bodies
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/TOCH/3/
