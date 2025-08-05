@@ -3,17 +3,17 @@ labels:
   original: OthFlux_WCBed
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Fluxes of species other than metals and nutrients between the bed (ie
     the sediment) and the water column sometimes termed benthic fluxes or sediment
     demand
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Other fluxes between the bed and the water column
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/SICO/2/
