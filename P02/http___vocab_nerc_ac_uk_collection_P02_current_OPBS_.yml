@@ -3,7 +3,7 @@ labels:
   original: OptBS
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Includes all parameters covering the strength of electromagnetic radiation
     signal return, including absolute measurements of returning signal strength as
@@ -11,10 +11,10 @@ labels:
     returned)
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Optical backscatter
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/OPBS/2/

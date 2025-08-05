@@ -3,16 +3,16 @@ labels:
   original: AtmosCarboxyl
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters quantifying the concentration of acids containing a carboxyl
     (-C(=O)OH) group, their anions or their salts in any phase of the atmosphere
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentrations of carboxylic acids and carboxylates in the atmosphere
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/CXAA/1/
