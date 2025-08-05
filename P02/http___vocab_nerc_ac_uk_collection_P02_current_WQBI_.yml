@@ -3,17 +3,17 @@ labels:
   original: WaterQualBioind
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters quantifying fauna and flora that indicate physical or chemical
     conditions in the water column such as colonisation depths and abundance of indicator
     species.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Water quality bioindicators
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/WQBI/1/

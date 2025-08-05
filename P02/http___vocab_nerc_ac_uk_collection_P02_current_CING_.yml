@@ -3,7 +3,7 @@ labels:
   original: WC_PartInorgC
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentrations of inorganic carbon in the particulate phase of the water
     column as extracted by a fitration technique.  This is the particle-bound concentration
@@ -12,10 +12,10 @@ labels:
     per unit weight of the SPM.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Particulate inorganic carbon concentrations in the water column
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/CING/1/
