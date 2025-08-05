@@ -3,7 +3,7 @@ labels:
   original: Resistivity
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters quantifying the electrical properties of geological units in
     the field. Includes parameters used to determine resistivity structure for shallow
@@ -11,10 +11,10 @@ labels:
     and mantle studies (Magnetotellurics) and ore body location (polarisation).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Field resistivity,  electromagnetics  and polarisation
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/RSIS/2/
