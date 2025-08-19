@@ -3,7 +3,7 @@ labels:
   original: Ocean_clr
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters associated with the measurement of ocean colour, including
     visible waveband satellite spectral radiometer measurements, their calibration
@@ -11,10 +11,10 @@ labels:
     estimates.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Ocean colour and earth-leaving visible waveband spectral radiation
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/R410/2/
