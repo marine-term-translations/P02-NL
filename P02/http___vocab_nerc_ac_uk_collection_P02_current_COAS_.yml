@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: Land_map
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Parameters relating to the mapping of terrestrial features, including
-    coastlines
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Terrestrial mapping
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/COAS/1/
+  - name: "altLabel"
+    original: "Land_map"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "Land_map"
+  - name: "definition"
+    original: "Parameters relating to the mapping of terrestrial features, including coastlines"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "to be filled in"
+  - name: "prefLabel"
+    original: "Terrestrial mapping"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/COAS/1/"
