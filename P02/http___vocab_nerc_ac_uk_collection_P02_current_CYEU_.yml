@@ -8,7 +8,7 @@ labels:
     original: "Used for plankton carbon biomass parameters where no differentiation between phytoplankton, microzooplankton or zooplankton is possible"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Gebruikt voor plankton koolstofbiomassaparameters waarbij geen differentiatie tussen fytoplankton, microzooplankton of zoöplankton mogelijk is"
   - name: "prefLabel"
     original: "Plankton biomass expressed as carbon per unit volume of the water column"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
