@@ -8,7 +8,7 @@ labels:
     original: "All vertical spatial parameters including depth, height and pressure when used as an independent variable."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Alle verticale ruimtelijke parameters inclusief diepte, hoogte en druk bij gebruik als een onafhankelijke variabele."
   - name: "prefLabel"
     original: "Vertical spatial coordinates"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
