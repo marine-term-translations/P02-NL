@@ -8,7 +8,7 @@ labels:
     original: "Parameters relating to the mapping of terrestrial features, including coastlines"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Parameters met betrekking tot het in kaart brengen van terrestrische kenmerken, inclusief kustlijnen"
   - name: "prefLabel"
     original: "Terrestrial mapping"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
