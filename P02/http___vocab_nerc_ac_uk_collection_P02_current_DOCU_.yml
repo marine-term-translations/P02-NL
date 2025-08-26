@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: DOC_dyn_WC
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Any parameter relating to the rate of DOC concentration change in the
-    water column
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Dissolved organic carbon uptake and production in the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/DOCU/1/
+  - name: "altLabel"
+    original: "DOC_dyn_WC"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "DOC_dyn_WC"
+  - name: "definition"
+    original: "Any parameter relating to the rate of DOC concentration change in the water column"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "to be filled in"
+  - name: "prefLabel"
+    original: "Dissolved organic carbon uptake and production in the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/DOCU/1/"
