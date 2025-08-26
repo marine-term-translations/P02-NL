@@ -1,19 +1,17 @@
 labels:
-- name: altLabel
-  original: WindStrenDir
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Parameters quantifying the extent or direction of atmospheric movement.
-    Obvious examples are wind velocity, windspeed and wind direction, but can also
-    include derived parameters such as force, energy, power and power density.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Wind strength and direction
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/EWSB/3/
+  - name: "altLabel"
+    original: "WindStrenDir"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "to be filled in"
+  - name: "definition"
+    original: "Parameters quantifying the extent or direction of atmospheric movement. Obvious examples are wind velocity, windspeed and wind direction, but can also include derived parameters such as force, energy, power and power density."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Parameters die de mate of richting van atmosferische beweging kwantificeren. Duidelijke voorbeelden zijn windversnelling, windsnelheid en windrichting, maar kunnen ook afgeleide parameters bevatten zoals kracht, energie, kracht en vermogensdichtheid."
+  - name: "prefLabel"
+    original: "Wind strength and direction"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/EWSB/3/"
