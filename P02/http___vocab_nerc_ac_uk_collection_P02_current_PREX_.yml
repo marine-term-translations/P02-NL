@@ -8,7 +8,7 @@ labels:
     original: "Measurements of the displacement of the water column surface from a fixed, stable reference expressed as either total pressure or sea pressure"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Metingen van de verplaatsing van het waterkolomoppervlak vanuit een vaste, stabiele referentie, uitgedrukt als totale druk of zeedruk"
   - name: "prefLabel"
     original: "Sea level expressed as pressure"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
