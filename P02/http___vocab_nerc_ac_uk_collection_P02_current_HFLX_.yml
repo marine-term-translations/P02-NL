@@ -3,7 +3,7 @@ labels:
     original: "WCAt_HeatFlux"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "WCAt_HeatFlux"
   - name: "definition"
     original: "Parameters quantifying heat exchange between any body of water and the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#definition"
