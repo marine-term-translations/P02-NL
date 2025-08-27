@@ -13,5 +13,5 @@ labels:
     original: "Sea level expressed as pressure"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Zeespiegel uitgedrukt als druk"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/PREX/2/"
