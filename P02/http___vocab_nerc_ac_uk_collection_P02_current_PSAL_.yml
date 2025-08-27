@@ -3,7 +3,7 @@ labels:
     original: "WC_Sal"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "WC_Sal"
   - name: "definition"
     original: "Parameters quantifying the concentration of sodium chloride in any body of water at any point between the bed and the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#definition"
