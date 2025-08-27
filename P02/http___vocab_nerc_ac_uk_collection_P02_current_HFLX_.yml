@@ -13,5 +13,5 @@ labels:
     original: "Heat fluxes between the water column and the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Hitte fluctuaties tussen de waterkolom en de atmosfeer"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/HFLX/1/"
