@@ -8,7 +8,7 @@ labels:
     original: "Concentrations of chlorofluorocarbons (also known as freons or CFCs) in sny body of water"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Concentraties van chlorofluorocoolwaterstoffen (ook bekend als freons of CFC's) in sny water van water"
   - name: "prefLabel"
     original: "Chlorofluorocarbon concentrations in the water column"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
