@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: 3DSeisReflec
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Parameters relating to structure beneath sea-bed determined by the reflection
-    of seismic energy along multiple parallel tracks.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Three-dimensional seismic reflection
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/SR3D/2/
+  - name: "altLabel"
+    original: "3DSeisReflec"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "to be filled in"
+  - name: "definition"
+    original: "Parameters relating to structure beneath sea-bed determined by the reflection of seismic energy along multiple parallel tracks."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Parameters met betrekking tot structuur onder zee-bed bepaald door de weerspiegeling van seismische energie langs meerdere parallelle sporen."
+  - name: "prefLabel"
+    original: "Three-dimensional seismic reflection"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/SR3D/2/"
