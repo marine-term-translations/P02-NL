@@ -8,7 +8,7 @@ labels:
     original: "Parameters associated with the measurement of ocean colour, including visible waveband satellite spectral radiometer measurements, their calibration measurements (spectral water-leaving radiance and reflectance) and chart colour estimates."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Parameters die verband houden met het meten van de kleur van de oceaan, waaronder metingen van de zichtbare golflengte met behulp van satellietspectrumradiometers, de kalibratiemetingen (spectrale straling en reflectie van het water dat het verlaat) en schattingen van de kleur op grafieken."
   - name: "prefLabel"
     original: "Ocean colour and earth-leaving visible waveband spectral radiation"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
