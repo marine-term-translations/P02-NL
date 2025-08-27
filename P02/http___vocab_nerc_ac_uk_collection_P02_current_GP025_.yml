@@ -3,7 +3,7 @@ labels:
     original: "SealRepr"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "SealRepr"
   - name: "definition"
     original: "Parameters related to the reproduction of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae)."
     path: "http://www.w3.org/2004/02/skos/core#definition"
