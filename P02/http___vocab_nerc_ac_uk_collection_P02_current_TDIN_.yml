@@ -8,7 +8,7 @@ labels:
     original: "Total concentration of all dissolved inorganic nitrogen species in the water column, usually derived by summation of individual nutrient concentrations (NO3+NO2+NH4). Some workers may also include urea."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Totale concentratie van alle opgeloste anorganische stikstofsoorten in de waterkolom, meestal afgeleid door de som van de concentraties van individuele voedingsstoffen (NO3 + NO2 + NH4). Sommige werknemers kunnen ook ureum toevoegen."
   - name: "prefLabel"
     original: "Dissolved inorganic nitrogen concentration in the water column"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
