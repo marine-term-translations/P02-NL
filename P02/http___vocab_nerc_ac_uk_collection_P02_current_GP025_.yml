@@ -13,5 +13,5 @@ labels:
     original: "Seal reproduction"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Zeehonden reproductie"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/GP025/3/"
