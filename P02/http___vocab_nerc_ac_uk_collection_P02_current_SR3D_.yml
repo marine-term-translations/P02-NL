@@ -3,7 +3,7 @@ labels:
     original: "3DSeisReflec"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "3DSeisReflec"
   - name: "definition"
     original: "Parameters relating to structure beneath sea-bed determined by the reflection of seismic energy along multiple parallel tracks."
     path: "http://www.w3.org/2004/02/skos/core#definition"
