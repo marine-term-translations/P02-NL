@@ -1,17 +1,17 @@
 labels:
-- name: altLabel
-  original: Raw_pH_output
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Raw pH parameter output from any type of pH sensor.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Raw pH sensor output
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/PHLT/1/
+  - name: "altLabel"
+    original: "Raw_pH_output"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "to be filled in"
+  - name: "definition"
+    original: "Raw pH parameter output from any type of pH sensor."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Ruwe pH -parameteruitgang van elk type pH -sensor."
+  - name: "prefLabel"
+    original: "Raw pH sensor output"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/PHLT/1/"
