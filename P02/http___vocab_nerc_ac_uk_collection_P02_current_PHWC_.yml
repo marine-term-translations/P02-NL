@@ -13,5 +13,5 @@ labels:
     original: "Phaeopigment concentrations in the water column"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Feopigmentconcentraties in de waterkolom"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/PHWC/1/"
