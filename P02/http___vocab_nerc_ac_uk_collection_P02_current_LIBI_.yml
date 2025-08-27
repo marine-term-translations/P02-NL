@@ -8,7 +8,7 @@ labels:
     original: "Lipids are defined as small water-insoluble biomolecules including fats, fatty acids, esters, sterols, isoprenoid compounds, etc..  Biota includes any type of sample originating from a living organism."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Lipiden worden gedefinieerd als kleine in water onoplosbare biomoleculen, waaronder vetten, vetzuren, esters, sterolen, isoprenoïde verbindingen, enz. Biota omvat elk type monster dat afkomstig is van een levend organisme."
   - name: "prefLabel"
     original: "Biota lipid concentrations"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
