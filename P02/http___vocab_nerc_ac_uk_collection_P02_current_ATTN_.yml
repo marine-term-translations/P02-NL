@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_Trans+Attn
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: ''
-- name: definition
-  original: Parameters relating to the rate of electromagnetic radiation intensity
-    decrease as it travels through the water column
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: ''
-- name: prefLabel
-  original: Transmittance and attenuance of the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/ATTN/2/
+  - name: "altLabel"
+    original: "WC_Trans+Attn"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_Trans+Attn"
+  - name: "definition"
+    original: "Parameters relating to the rate of electromagnetic radiation intensity decrease as it travels through the water column"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Parameters met betrekking tot de snelheid van elektromagnetische stralingsintensiteit afnemen als deze door de waterkolom reist"
+  - name: "prefLabel"
+    original: "Transmittance and attenuance of the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Transmissie en verzwakking van de waterkolom"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/ATTN/2/"
