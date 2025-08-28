@@ -3,7 +3,7 @@ labels:
   original: Litter
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters describing the abundance and nature of material classed as
     refuse introduced to the environment by activities of man that are not covered
@@ -11,10 +11,10 @@ labels:
     (BLIT) or seafloor litter (SLIT).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Litter abundance and type
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/LITT/2/
