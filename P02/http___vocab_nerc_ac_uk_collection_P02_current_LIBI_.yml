@@ -1,19 +1,17 @@
 labels:
-- name: altLabel
-  original: Lipid_Biota
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: ''
-- name: definition
-  original: Lipids are defined as small water-insoluble biomolecules including fats,
-    fatty acids, esters, sterols, isoprenoid compounds, etc..  Biota includes any
-    type of sample originating from a living organism.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: ''
-- name: prefLabel
-  original: Biota lipid concentrations
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/LIBI/3/
+  - name: "altLabel"
+    original: "Lipid_Biota"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "Lipid_Biota"
+  - name: "definition"
+    original: "Lipids are defined as small water-insoluble biomolecules including fats, fatty acids, esters, sterols, isoprenoid compounds, etc..  Biota includes any type of sample originating from a living organism."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Lipiden worden gedefinieerd als kleine in water onoplosbare biomoleculen, waaronder vetten, vetzuren, esters, sterolen, isoprenoïde verbindingen, enz. Biota omvat elk type monster dat afkomstig is van een levend organisme."
+  - name: "prefLabel"
+    original: "Biota lipid concentrations"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Biota lipideconcentraties"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/LIBI/3/"

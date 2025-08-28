@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_Sal
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: ''
-- name: definition
-  original: Parameters quantifying the concentration of sodium chloride in any body
-    of water at any point between the bed and the atmosphere
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: ''
-- name: prefLabel
-  original: Salinity of the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/PSAL/2/
+  - name: "altLabel"
+    original: "WC_Sal"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_Sal"
+  - name: "definition"
+    original: "Parameters quantifying the concentration of sodium chloride in any body of water at any point between the bed and the atmosphere"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Parameters die de concentratie natriumchloride kwantificeren in elk waterlichaam op elk punt tussen het bed en de atmosfeer"
+  - name: "prefLabel"
+    original: "Salinity of the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Zoutgehalte in de waterkolom"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/PSAL/2/"
