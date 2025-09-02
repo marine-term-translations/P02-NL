@@ -1,17 +1,18 @@
 labels:
-  - name: "altLabel"
-    original: "Vert_spac_coord"
-    path: "http://www.w3.org/2004/02/skos/core#altLabel"
-    translations:
-      - nl: "Vert_spac_coord"
-  - name: "definition"
-    original: "All vertical spatial parameters including depth, height and pressure when used as an independent variable."
-    path: "http://www.w3.org/2004/02/skos/core#definition"
-    translations:
-      - nl: "Alle verticale ruimtelijke parameters inclusief diepte, hoogte en druk bij gebruik als een onafhankelijke variabele."
-  - name: "prefLabel"
-    original: "Vertical spatial coordinates"
-    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
-    translations:
-      - nl: "Verticale ruimtelijke coördinaten"
-uri: "http://vocab.nerc.ac.uk/collection/P02/current/AHGT/2/"
+- name: altLabel
+  original: Vert_spac_coord
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: All vertical spatial parameters including depth, height and pressure when
+    used as an independent variable.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Vertical spatial coordinates
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/AHGT/2/

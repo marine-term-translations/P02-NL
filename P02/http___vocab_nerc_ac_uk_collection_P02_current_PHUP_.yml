@@ -1,17 +1,18 @@
 labels:
-  - name: "altLabel"
-    original: "OthNut_WCUp"
-    path: "http://www.w3.org/2004/02/skos/core#altLabel"
-    translations:
-      - nl: "OthNut_WCUp"
-  - name: "definition"
-    original: "Uptake of nutrients other than nitrogen species (ie phosphate and silicate) by the water column"
-    path: "http://www.w3.org/2004/02/skos/core#definition"
-    translations:
-      - nl: "Opname van andere voedingsstoffen dan stikstofsoorten (d.w.z. fosfaat en silicaat) door de waterkolom"
-  - name: "prefLabel"
-    original: "Uptake of other nutrients in the water column"
-    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
-    translations:
-      - nl: "Opname van andere voedingsstoffen in de waterkolom"
-uri: "http://vocab.nerc.ac.uk/collection/P02/current/PHUP/2/"
+- name: altLabel
+  original: OthNut_WCUp
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Uptake of nutrients other than nitrogen species (ie phosphate and silicate)
+    by the water column
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Uptake of other nutrients in the water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/PHUP/2/

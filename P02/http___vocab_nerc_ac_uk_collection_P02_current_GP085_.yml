@@ -1,17 +1,19 @@
 labels:
-  - name: "altLabel"
-    original: "FishBehav"
-    path: "http://www.w3.org/2004/02/skos/core#altLabel"
-    translations:
-      - nl: "FishBehav"
-  - name: "definition"
-    original: "Parameters describing the actions or reactions of fish (Osteichthyes, Agnatha and Chondrichthyes), usually in response to the environment. Includes both parameters mapped to taxa and those mapped to non-taxonomic groupings."
-    path: "http://www.w3.org/2004/02/skos/core#definition"
-    translations:
-      - nl: "Parameters die de acties of reacties van vissen (Osteichthyes, Agnatha en Chondrichthyes) beschrijven, meestal als reactie op de omgeving. Omvat zowel parameters die gekoppeld zijn aan taxa als parameters die gekoppeld zijn aan niet-taxonomische groeperingen."
-  - name: "prefLabel"
-    original: "Fish behaviour"
-    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
-    translations:
-      - nl: "Visgedrag"
-uri: "http://vocab.nerc.ac.uk/collection/P02/current/GP085/1/"
+- name: altLabel
+  original: FishBehav
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters describing the actions or reactions of fish (Osteichthyes,
+    Agnatha and Chondrichthyes), usually in response to the environment. Includes
+    both parameters mapped to taxa and those mapped to non-taxonomic groupings.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Fish behaviour
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/GP085/1/

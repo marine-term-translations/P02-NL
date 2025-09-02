@@ -1,22 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_TaxBacteriaCarbBiomass
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: ''
-- name: definition
-  original: Bacteria carbon biomass parameters presented at the level of taxa that
-    may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These
-    may be at any taxonomic level from sub-species upwards.  Bacteria are defined
-    as all taxa that fall into Kingdom Monera in the ITIS taxonomy, which includes
-    cyanobacteria.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: ''
-- name: prefLabel
-  original: Bacteria taxonomy-related biomass expressed as carbon per unit volume
-    of the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/BATC/2/
+  - name: "altLabel"
+    original: "WC_TaxBacteriaCarbBiomass"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_TaxBacteriaCarbBiomass"
+  - name: "definition"
+    original: "Bacteria carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.  Bacteria are defined as all taxa that fall into Kingdom Monera in the ITIS taxonomy, which includes cyanobacteria."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "to be filled in"
+  - name: "prefLabel"
+    original: "Bacteria taxonomy-related biomass expressed as carbon per unit volume of the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/BATC/2/"

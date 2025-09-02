@@ -1,17 +1,18 @@
 labels:
-  - name: "altLabel"
-    original: "WCAt_HeatFlux"
-    path: "http://www.w3.org/2004/02/skos/core#altLabel"
-    translations:
-      - nl: "WCAt_HeatFlux"
-  - name: "definition"
-    original: "Parameters quantifying heat exchange between any body of water and the atmosphere"
-    path: "http://www.w3.org/2004/02/skos/core#definition"
-    translations:
-      - nl: "Parameters die warmte -uitwisseling tussen elk waterlichaam en de atmosfeer kwantificeren"
-  - name: "prefLabel"
-    original: "Heat fluxes between the water column and the atmosphere"
-    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
-    translations:
-      - nl: "Hitte fluctuaties tussen de waterkolom en de atmosfeer"
-uri: "http://vocab.nerc.ac.uk/collection/P02/current/HFLX/1/"
+- name: altLabel
+  original: WCAt_HeatFlux
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Parameters quantifying heat exchange between any body of water and the
+    atmosphere
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Heat fluxes between the water column and the atmosphere
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/HFLX/1/
