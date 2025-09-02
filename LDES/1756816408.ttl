@@ -6,7 +6,7 @@
     @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
     @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-    @base <https://marine-term-translations.github.io/P02-NL/LDES/latest.ttl> .
+    @base <https://marine-term-translations.github.io/P02-NL/LDES/1756816408.ttl> .
     
     <>
         a tree:Node ;
