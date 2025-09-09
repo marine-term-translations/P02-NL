@@ -8,7 +8,7 @@ labels:
     original: "Includes all parameters relating to all mechanisms of waste release except respiration."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Bevat alle parameters met betrekking tot alle mechanismen van afvalafgifte behalve ademhaling."
   - name: "prefLabel"
     original: "Excretion rate parameters in the water column"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
