@@ -13,5 +13,5 @@ labels:
     original: "Carotenoid and flavenoid pigment concentrations in water bodies"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Carotenoïde en flavenoïde pigmentconcentraties in waterlichamen"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/CARO/3/"
