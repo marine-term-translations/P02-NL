@@ -1,0 +1,703 @@
+
+    @prefix tree: <https://w3id.org/tree#> .
+    @prefix ldes: <https://w3id.org/ldes#> .
+    @prefix dc: <http://purl.org/dc/terms/> .
+    @prefix sh: <http://www.w3.org/ns/shacl#> .
+    @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+    @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+    @base <https://marine-term-translations.github.io/P02-NL/LDES/1758797457.ttl> .
+    
+    <>
+        a tree:Node ;
+        
+        tree:relation [
+          a tree:LessThanRelation ;
+          tree:node <https://marine-term-translations.github.io/P02-NL/LDES/1758626810.ttl> ;
+          tree:path dc:modified ;
+          tree:value "2025-09-25T10:50:57Z"^^xsd:dateTime
+        ] ;
+        
+        ldes:retentionPolicy [
+            a ldes:LatestVersionSubset ;
+            ldes:versionAmount 1
+        ] .
+    
+    <feed>
+      a ldes:EventStream ;
+      ldes:timestampPath dc:modified ;
+      ldes:versionOfPath dc:isVersionOf ;
+      tree:shape [
+        a sh:NodeShape ;
+        sh:nodeKind sh:IRI ;
+        sh:property [
+          sh:datatype xsd:string ;
+          sh:minCount 1 ;
+          sh:path <http://www.w3.org/2004/02/skos/core#definition> 
+        ];
+        sh:property [
+          sh:datatype xsd:string ;
+          sh:minCount 1 ;
+          sh:path <http://www.w3.org/2004/02/skos/core#altLabel> 
+        ];
+        sh:property [
+          sh:datatype xsd:string ;
+          sh:minCount 1 ;
+          sh:path <http://www.w3.org/2004/02/skos/core#prefLabel> 
+        ];
+        sh:property [
+          sh:datatype xsd:dateTime ;
+          sh:minCount 1 ;
+          sh:path dc:modified
+        ];
+        sh:property [
+          sh:datatype xsd:string ;
+          sh:minCount 1 ;
+          sh:path dc:isVersionOf
+        ];
+        
+        sh:targetClass skos:Concept
+      ] ;
+      tree:view <> ;
+      .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTSD" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MTSD>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTSD" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MTSD>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SEMP" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/SEMP>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SEMP" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/SEMP>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FATM" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/FATM>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FATM" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/FATM>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SIPW" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/SIPW>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SIPW" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/SIPW>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/BATC" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_TaxBacteriaCarbBiomass"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/BATC>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_TaxBacteriaCarbBiomass"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/BATC" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_TaxBacteriaCarbBiomass"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/BATC>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_TaxBacteriaCarbBiomass"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/CARO" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/CARO>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/CARO" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/CARO>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/PEBI" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/PEBI>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/PEBI" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/PEBI>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTUP" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/NTUP>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTUP" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/NTUP>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GWCH" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/GWCH>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GWCH" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/GWCH>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FNTX" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/FNTX>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FNTX" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/FNTX>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTAT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MTAT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTAT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MTAT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/ATTN" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_Trans+Attn"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "Parameters met betrekking tot de snelheid van elektromagnetische stralingsintensiteit afnemen als deze door de waterkolom reist"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Transmissie en verzwakking van de waterkolom"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/ATTN>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_Trans+Attn"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "Parameters met betrekking tot de snelheid van elektromagnetische stralingsintensiteit afnemen als deze door de waterkolom reist"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Transmissie en verzwakking van de waterkolom"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/ATTN" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_Trans+Attn"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "Parameters met betrekking tot de snelheid van elektromagnetische stralingsintensiteit afnemen als deze door de waterkolom reist"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Transmissie en verzwakking van de waterkolom"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/ATTN>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "WC_Trans+Attn"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "Parameters met betrekking tot de snelheid van elektromagnetische stralingsintensiteit afnemen als deze door de waterkolom reist"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "Transmissie en verzwakking van de waterkolom"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/LWET" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/LWET>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/LWET" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/LWET>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GREF" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/GREF>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GREF" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/GREF>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/TADN" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/TADN>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/TADN" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/TADN>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTOT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/NTOT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTOT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/NTOT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/EXCR" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/EXCR>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/EXCR" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/EXCR>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MFWW" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MFWW>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MFWW" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MFWW>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MZCT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MZCT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MZCT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/MZCT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FVLT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/FVLT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml> .
+    <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml>
+        
+        dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FVLT" ;
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime ;
+        a skos:Concept .
+    
+    <http://vocab.nerc.ac.uk/collection/P02/FVLT>
+        <http://www.w3.org/2004/02/skos/core#altLabel> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#definition> "to be filled in"@nl ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel> "to be filled in"@nl ;
+        dc:modified "2025-09-25T10:50:56Z"^^xsd:dateTime 
+        .
+    
