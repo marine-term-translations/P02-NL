@@ -1,19 +1,17 @@
 labels:
-- name: altLabel
-  original: Seal_Morph_Phys
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Parameters describing the size, shape or physiological activity including
-    disease and parasite infection status of true seals (Phocidae), eared seals (Otariidae)
-    and walruses (Odobenidae).
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Seal morphology and physiology
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/SEMP/3/
+  - name: "altLabel"
+    original: "Seal_Morph_Phys"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "to be filled in"
+  - name: "definition"
+    original: "Parameters describing the size, shape or physiological activity including disease and parasite infection status of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae)."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Parameters die de grootte, vorm of fysiologische activiteit beschrijven, inclusief ziektes en parasietinfectiestatus van echte zeehonden (phocidae), oorlingen (Otariidae) en walrussen (Odobenidae)."
+  - name: "prefLabel"
+    original: "Seal morphology and physiology"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/SEMP/3/"
