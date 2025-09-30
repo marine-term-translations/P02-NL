@@ -3,7 +3,7 @@ labels:
     original: "WC_MicrozooGraz"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "WC_MicrozooGraz"
   - name: "definition"
     original: "Parameters that express the consumption of the phytoplankton population by the microzooplankton.  Generally the results of dilution experiments on water samples screened through a 200-micron mesh."
     path: "http://www.w3.org/2004/02/skos/core#definition"
