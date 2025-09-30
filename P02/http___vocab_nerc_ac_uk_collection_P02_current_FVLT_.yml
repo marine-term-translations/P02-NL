@@ -8,7 +8,7 @@ labels:
     original: "Output as logged from any type fluorometer."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Uitvoer zoals vastgelegd door elk type fluorometer."
   - name: "prefLabel"
     original: "Raw fluorometer output"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
