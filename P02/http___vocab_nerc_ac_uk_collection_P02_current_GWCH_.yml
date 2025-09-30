@@ -8,7 +8,7 @@ labels:
     original: "Parameters quantifying the chemistry of terrestrial groundwater bodies such as aquifers and waters percolating through rock formations."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Parameters die de chemische samenstelling van grondwaterlichamen, zoals aquifers en water dat door rotsformaties sijpelt, kwantificeren."
   - name: "prefLabel"
     original: "Groundwater chemistry"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
