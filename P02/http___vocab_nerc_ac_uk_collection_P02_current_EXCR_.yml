@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_Excretion
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Includes all parameters relating to all mechanisms of waste release except
-    respiration.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Excretion rate parameters in the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/EXCR/1/
+  - name: "altLabel"
+    original: "WC_Excretion"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_Excretion"
+  - name: "definition"
+    original: "Includes all parameters relating to all mechanisms of waste release except respiration."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Bevat alle parameters met betrekking tot alle mechanismen van afvalafgifte behalve ademhaling."
+  - name: "prefLabel"
+    original: "Excretion rate parameters in the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Uitscheidingsparameters in de waterkolom"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/EXCR/1/"

@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: Fish_MorphAgePhys
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Parameters that quantify the size, shape, age and life processes (including
-    mortality) of fish (Osteichthyes, Agnatha and Chrondrichthyes).
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Fish morphology, age and physiology
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/FATM/6/
+  - name: "altLabel"
+    original: "Fish_MorphAgePhys"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "Fish_MorphAgePhys"
+  - name: "definition"
+    original: "Parameters that quantify the size, shape, age and life processes (including mortality) of fish (Osteichthyes, Agnatha and Chrondrichthyes)."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Parameters that quantify the size, shape, age and life processes (including mortality) of fish (Osteichthyes, Agnatha and Chrondrichthyes)."
+  - name: "prefLabel"
+    original: "Fish morphology, age and physiology"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Vismorfologie, leeftijd en fysiologie"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/FATM/6/"

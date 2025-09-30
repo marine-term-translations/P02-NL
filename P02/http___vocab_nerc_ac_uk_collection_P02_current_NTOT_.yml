@@ -1,20 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_PON
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Concentrations of total and organic nitrogen in the particulate phase
-    of the water column, which is a function of both the SPM concentration in the
-    water column and the concentration of nitrogen per unit weight of SPM. Note that
-    it is commonly assumed that all particulate nitrogen is organic.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Particulate total and organic nitrogen concentrations in the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/NTOT/1/
+  - name: "altLabel"
+    original: "WC_PON"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_PON"
+  - name: "definition"
+    original: "Concentrations of total and organic nitrogen in the particulate phase of the water column, which is a function of both the SPM concentration in the water column and the concentration of nitrogen per unit weight of SPM. Note that it is commonly assumed that all particulate nitrogen is organic."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "to be filled in"
+  - name: "prefLabel"
+    original: "Particulate total and organic nitrogen concentrations in the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Deeltelijke totale en organische stikstofconcentraties in de waterkolom"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/NTOT/1/"

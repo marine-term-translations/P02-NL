@@ -1,19 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_MicrozooGraz
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Parameters that express the consumption of the phytoplankton population
-    by the microzooplankton.  Generally the results of dilution experiments on water
-    samples screened through a 200-micron mesh.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Microzooplankton grazing
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/MZCT/2/
+  - name: "altLabel"
+    original: "WC_MicrozooGraz"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_MicrozooGraz"
+  - name: "definition"
+    original: "Parameters that express the consumption of the phytoplankton population by the microzooplankton.  Generally the results of dilution experiments on water samples screened through a 200-micron mesh."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Parameters die de consumptie van de phytoplanktonpopulatie door het microzooplankton uitdrukken.  Over het algemeen de resultaten van verdunningsexperimenten op watermonsters gescreend door een 200-micron gaas."
+  - name: "prefLabel"
+    original: "Microzooplankton grazing"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Begrazing door microzoöplankton"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/MZCT/2/"

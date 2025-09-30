@@ -1,17 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_CarotFlavPig
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: ''
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Carotenoid and flavenoid pigment concentrations in water bodies
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/CARO/3/
+  - name: "altLabel"
+    original: "WC_CarotFlavPig"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_CarotFlavPig"
+  - name: "definition"
+    original: ""
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Caratenoide en flaviode pigment concentraties in water lichamen"
+  - name: "prefLabel"
+    original: "Carotenoid and flavenoid pigment concentrations in water bodies"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Carotenoïde en flavenoïde pigmentconcentraties in waterlichamen"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/CARO/3/"
