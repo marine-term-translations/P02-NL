@@ -8,7 +8,7 @@ labels:
     original: "Stable isotope parameters (concentrations, ratios and enrichments) in either the solute or solvent phase of sediment pore waters."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Stabiele isotopenparameters (concentraties, verhoudingen en verrijkingen) in de opgeloste of oplosmiddelfase van sedimentporiënwater."
   - name: "prefLabel"
     original: "Stable isotopes in sediment pore waters"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
