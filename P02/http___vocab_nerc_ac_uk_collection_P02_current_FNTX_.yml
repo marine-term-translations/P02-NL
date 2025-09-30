@@ -1,19 +1,17 @@
 labels:
-- name: altLabel
-  original: Fish_nontaxa_abund
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: to be filled in
-- name: definition
-  original: Fish (Osteichthyes, Agnatha and Chrondrichthyes) abundance per unit volume
-    parameters not included under FATX.  Most commonly used for the generic term 'fish'
-    that maps to multiple taxa.
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: to be filled in
-- name: prefLabel
-  original: Fish non taxonomy-related abundance per unit volume of the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/P02/current/FNTX/3/
+  - name: "altLabel"
+    original: "Fish_nontaxa_abund"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "to be filled in"
+  - name: "definition"
+    original: "Fish (Osteichthyes, Agnatha and Chrondrichthyes) abundance per unit volume parameters not included under FATX.  Most commonly used for the generic term 'fish' that maps to multiple taxa."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Vis (Osteichthyes, Agnatha en Chrondrichthyes) Overvloed per parameters voor volume -eenheid niet opgenomen onder FATX.  Het meest gebruikt voor de generieke term 'vis' die in kaart brengt naar meerdere taxa."
+  - name: "prefLabel"
+    original: "Fish non taxonomy-related abundance per unit volume of the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/FNTX/3/"
