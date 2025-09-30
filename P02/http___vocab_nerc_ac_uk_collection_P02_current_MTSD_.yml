@@ -8,7 +8,7 @@ labels:
     original: "Concentrations of metal elements per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Concentraties van metaalelementen per gewichtseenheid sediment. Onder sediment wordt de vaste fase van de bodem verstaan, inclusief het recent bezonken materiaal, soms ook wel fluff genoemd, dat van het bodemoppervlak is verzameld."
   - name: "prefLabel"
     original: "Metal concentrations in sediment"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
