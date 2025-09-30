@@ -3,7 +3,7 @@ labels:
     original: "Seal_Morph_Phys"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Seal_Morph_Phys"
   - name: "definition"
     original: "Parameters describing the size, shape or physiological activity including disease and parasite infection status of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae)."
     path: "http://www.w3.org/2004/02/skos/core#definition"
