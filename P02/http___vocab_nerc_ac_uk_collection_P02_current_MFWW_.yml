@@ -13,5 +13,5 @@ labels:
     original: "Zoobenthos non taxonomy-related wet weight biomass per unit area of the bed"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Zoobenthos niet-taxonomie-gerelateerde natte gewicht biomassa per eenheid gebied van het bed"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/MFWW/2/"
