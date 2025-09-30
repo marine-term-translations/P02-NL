@@ -8,7 +8,7 @@ labels:
     original: "Concentrations of total and organic nitrogen in the particulate phase of the water column, which is a function of both the SPM concentration in the water column and the concentration of nitrogen per unit weight of SPM. Note that it is commonly assumed that all particulate nitrogen is organic."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Concentraties van totale en organische stikstof in de deeltjesfase van de waterkolom, die afhankelijk zijn van zowel de SPM-concentratie in de waterkolom als de stikstofconcentratie per gewichtseenheid SPM. Er wordt algemeen aangenomen dat alle stikstof in de deeltjes organische stikstof is."
   - name: "prefLabel"
     original: "Particulate total and organic nitrogen concentrations in the water column"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
