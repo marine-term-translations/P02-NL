@@ -8,7 +8,7 @@ labels:
     original: "Parameters that quantify the size, shape, age and life processes (including mortality) of fish (Osteichthyes, Agnatha and Chrondrichthyes)."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "Parameters that quantify the size, shape, age and life processes (including mortality) of fish (Osteichthyes, Agnatha and Chrondrichthyes)."
+      - nl: "Parameters die de grootte, vorm, leeftijd en levensprocessen quantificeren (inclusief mortaliteit) van vissen (Osteichthyes, Agnatha and Chrondrichthyes)."
   - name: "prefLabel"
     original: "Fish morphology, age and physiology"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
