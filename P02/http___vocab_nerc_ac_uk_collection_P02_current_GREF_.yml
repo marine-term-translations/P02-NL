@@ -3,7 +3,7 @@ labels:
     original: "Bact_Growth"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Bact_Growth"
   - name: "definition"
     original: ""
     path: "http://www.w3.org/2004/02/skos/core#definition"
