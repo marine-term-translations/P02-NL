@@ -13,5 +13,5 @@ labels:
     original: "Stable isotopes in sediment pore waters"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Stabiele isotopen in sedimentporiënwateren"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/SIPW/3/"
