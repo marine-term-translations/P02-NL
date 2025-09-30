@@ -8,7 +8,7 @@ labels:
     original: "Concentration parameters for substances synthesised by man to kill other life forms in either whole organisms or their constituent parts."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Concentratieparameters voor stoffen die door de mens worden gesynthetiseerd om andere levensvormen te doden, hetzij in hun geheel, hetzij in hun bestanddelen."
   - name: "prefLabel"
     original: "Pesticide concentrations in biota"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
