@@ -13,5 +13,5 @@ labels:
     original: "Metal concentrations in the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Metaalconcentraties in de atmosfeer"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/MTAT/2/"
