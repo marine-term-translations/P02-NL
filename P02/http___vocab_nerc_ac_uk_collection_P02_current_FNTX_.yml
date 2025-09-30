@@ -3,7 +3,7 @@ labels:
     original: "Fish_nontaxa_abund"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Fish_nontaxa_abund"
   - name: "definition"
     original: "Fish (Osteichthyes, Agnatha and Chrondrichthyes) abundance per unit volume parameters not included under FATX.  Most commonly used for the generic term 'fish' that maps to multiple taxa."
     path: "http://www.w3.org/2004/02/skos/core#definition"
