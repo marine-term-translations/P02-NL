@@ -8,7 +8,7 @@ labels:
     original: ""
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Caratenoide en flaviode pigment concentraties in water lichamen"
   - name: "prefLabel"
     original: "Carotenoid and flavenoid pigment concentrations in water bodies"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
