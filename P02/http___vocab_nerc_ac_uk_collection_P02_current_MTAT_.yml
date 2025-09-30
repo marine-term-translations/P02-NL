@@ -3,7 +3,7 @@ labels:
     original: "Met_At"
     path: "http://www.w3.org/2004/02/skos/core#altLabel"
     translations:
-      - nl: "to be filled in"
+      - nl: "Met_At"
   - name: "definition"
     original: "Concentration of metal elements in any phase of the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#definition"
