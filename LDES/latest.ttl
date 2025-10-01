@@ -53,7 +53,7 @@
       ] ;
       tree:view <> ;
       .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTSD" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -68,7 +68,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaalconcentraties in het sediment"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MTSD_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTSD" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -83,7 +83,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaalconcentraties in het sediment"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SEMP" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -98,7 +98,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Seal morphology and physiology"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_SEMP_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SEMP" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -113,7 +113,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Seal morphology and physiology"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FATM" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -128,7 +128,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Vismorfologie, leeftijd en fysiologie"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_FATM_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FATM" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -143,7 +143,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Vismorfologie, leeftijd en fysiologie"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SIPW" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -158,7 +158,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Stabiele isotopen in sedimentporiënwateren"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_SIPW_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/SIPW" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -173,7 +173,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Stabiele isotopen in sedimentporiënwateren"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/BATC" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -188,7 +188,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacterie taxonomie-gerelateerde biomassa uitgedrukt als koolstof per volume-eenheid van de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_BATC_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/BATC" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -203,7 +203,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacterie taxonomie-gerelateerde biomassa uitgedrukt als koolstof per volume-eenheid van de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/CARO" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -218,7 +218,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Carotenoïde en flavenoïde pigmentconcentraties in waterlichamen"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_CARO_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/CARO" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -233,7 +233,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Carotenoïde en flavenoïde pigmentconcentraties in waterlichamen"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/PEBI" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -248,7 +248,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticide concentratie in biota"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_PEBI_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/PEBI" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -263,7 +263,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticide concentratie in biota"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTUP" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -278,7 +278,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwe productie in waterlichamen"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_NTUP_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTUP" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -293,7 +293,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwe productie in waterlichamen"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GWCH" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -308,7 +308,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Grondwaterchemie"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_GWCH_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GWCH" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -323,7 +323,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Grondwaterchemie"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FNTX" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -338,7 +338,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> " Fish non taxonomy-related abundance per unit volume of the water column"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_FNTX_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FNTX" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -353,7 +353,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> " Fish non taxonomy-related abundance per unit volume of the water column"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTAT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -368,7 +368,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaalconcentraties in de atmosfeer"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MTAT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MTAT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -383,7 +383,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaalconcentraties in de atmosfeer"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/ATTN" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -398,7 +398,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Transmissie en verzwakking van de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_ATTN_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/ATTN" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -413,7 +413,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Transmissie en verzwakking van de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/LWET" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -428,7 +428,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Landwatergehalte"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_LWET_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/LWET" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -443,7 +443,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Landwatergehalte"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GREF" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -458,7 +458,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacterial growth"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_GREF_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/GREF" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -473,7 +473,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacterial growth"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/TADN" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -488,7 +488,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Concentratie van adenylaten in het sediment"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_TADN_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/TADN" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -503,7 +503,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Concentratie van adenylaten in het sediment"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTOT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -518,7 +518,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Deeltelijke totale en organische stikstofconcentraties in de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_NTOT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/NTOT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -533,7 +533,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Deeltelijke totale en organische stikstofconcentraties in de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/EXCR" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -548,7 +548,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Uitscheidingsparameters in de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_EXCR_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/EXCR" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -563,7 +563,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Uitscheidingsparameters in de waterkolom"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MFWW" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -578,7 +578,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoobenthos niet-taxonomie-gerelateerde natte gewicht biomassa per eenheid gebied van het bed"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MFWW_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MFWW" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -593,7 +593,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoobenthos niet-taxonomie-gerelateerde natte gewicht biomassa per eenheid gebied van het bed"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MZCT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -608,7 +608,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Begrazing door microzoöplankton"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_MZCT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/MZCT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -623,7 +623,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Begrazing door microzoöplankton"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FVLT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
@@ -638,7 +638,7 @@
         <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruwe fluorometer output"@nl ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime 
         .
-    <> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml> .
+    <feed> tree:member <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml> .
     <#http___vocab_nerc_ac_uk_collection_P02_current_FVLT_.yml>
         dc:isVersionOf "http://vocab.nerc.ac.uk/collection/P02/FVLT" ;
         dc:modified "2025-09-30T08:37:30Z"^^xsd:dateTime ;
