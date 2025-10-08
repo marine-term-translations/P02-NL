@@ -8,7 +8,7 @@ labels:
     original: "Concentrations of both organic (eg amines) and inorganic (eg ammonia and oxides of nitrogen) nitrogen species in all phases of the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Concentraties van zowel organische (bijv. Amines) als anorganische (bijv. Ammoniak en oxiden van stikstof) stikstofsoorten in alle fasen van de atmosfeer"
   - name: "prefLabel"
     original: "Concentration of nitrogen species in the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
