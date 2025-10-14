@@ -8,7 +8,7 @@ labels:
     original: "Parameters describing the extent, intensity, timing and method of fisheries"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Parameters die de omvang, intensiteit, timing en methode van de visserij beschrijven"
   - name: "prefLabel"
     original: "Fishery characterisation"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
