@@ -3,16 +3,16 @@ labels:
   original: Iso_Biota
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Stable isotope parameters (concentrations, ratios and enrichments) from
     measurements on living (at the time of sampling) organisms or parts thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Stable isotopes in biota
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/IRBO/2/

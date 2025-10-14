@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: Atm_Nspecies
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: ''
-- name: definition
-  original: Concentrations of both organic (eg amines) and inorganic (eg ammonia and
-    oxides of nitrogen) nitrogen species in all phases of the atmosphere
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: ''
-- name: prefLabel
-  original: Concentration of nitrogen species in the atmosphere
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/AAMN/1/
+  - name: "altLabel"
+    original: "Atm_Nspecies"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "Atm_Nspecies"
+  - name: "definition"
+    original: "Concentrations of both organic (eg amines) and inorganic (eg ammonia and oxides of nitrogen) nitrogen species in all phases of the atmosphere"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Concentraties van zowel organische (bijv. Amines) als anorganische (bijv. Ammoniak en oxiden van stikstof) stikstofsoorten in alle fasen van de atmosfeer"
+  - name: "prefLabel"
+    original: "Concentration of nitrogen species in the atmosphere"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Concentratie van stikstofverbindingen in de atmosfeer"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/AAMN/1/"

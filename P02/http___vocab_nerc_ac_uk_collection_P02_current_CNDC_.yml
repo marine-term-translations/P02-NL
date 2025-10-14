@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_Cond
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: ''
-- name: definition
-  original: Parameters quantifying the flow of electrical current through or the electrical
-    resistance of a body of water at any point between the bed and the atmosphere
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: ''
-- name: prefLabel
-  original: Electrical conductivity of the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/CNDC/2/
+  - name: "altLabel"
+    original: "WC_Cond"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_Cond"
+  - name: "definition"
+    original: "Parameters quantifying the flow of electrical current through or the electrical resistance of a body of water at any point between the bed and the atmosphere"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "to be filled in"
+  - name: "prefLabel"
+    original: "Electrical conductivity of the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Elektrische geleidbaarheid van de waterkolom"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/CNDC/2/"
