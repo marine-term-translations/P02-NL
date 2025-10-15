@@ -8,7 +8,7 @@ labels:
     original: ""
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Test to see if anyone will see my nonsense translation here."
   - name: "prefLabel"
     original: "Raw light meter output"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
