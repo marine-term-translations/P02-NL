@@ -1,23 +1,17 @@
 labels:
-- name: altLabel
-  original: WC_POC
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - nl: ''
-- name: definition
-  original: Concentrations of total and organic carbon in the particulate phase of
-    the water column as extracted by a filtration technique. This is the particle-bound
-    concentration per unit volume of the water column and is both a function of the
-    SPM concentration in the water column and the concentration of carbon per unit
-    weight of SPM.  Total and organic carbon are classed together to circumvent confusion
-    caused by total carbon data sets labelled 'POC' on the assumption that the inorganic
-    carbon fraction is negligible
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - nl: ''
-- name: prefLabel
-  original: Particulate total and organic carbon concentrations in the water column
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - nl: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/CORG/1/
+  - name: "altLabel"
+    original: "WC_POC"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - nl: "WC_POC"
+  - name: "definition"
+    original: "Concentrations of total and organic carbon in the particulate phase of the water column as extracted by a filtration technique. This is the particle-bound concentration per unit volume of the water column and is both a function of the SPM concentration in the water column and the concentration of carbon per unit weight of SPM.  Total and organic carbon are classed together to circumvent confusion caused by total carbon data sets labelled 'POC' on the assumption that the inorganic carbon fraction is negligible"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - nl: "Concentraties van totale en organische koolstof in de deeltjesfase van de waterkolom, zoals geëxtraheerd door een filtratietechniek. Dit is de deeltjesgebonden concentratie per volume-eenheid van de waterkolom en is zowel een functie van de SPM-concentratie in de waterkolom als de koolstofconcentratie per gewichtseenheid SPM. Totale en organische koolstof worden samen geclassificeerd om verwarring te voorkomen die ontstaat door datasets met totale koolstof die als 'POC' zijn gemarkeerd, in de veronderstelling dat de anorganische koolstoffractie verwaarloosbaar is."
+  - name: "prefLabel"
+    original: "Particulate total and organic carbon concentrations in the water column"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - nl: "Concentraties van totale en organische koolstofdeeltjes in de waterkolom"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/CORG/1/"
