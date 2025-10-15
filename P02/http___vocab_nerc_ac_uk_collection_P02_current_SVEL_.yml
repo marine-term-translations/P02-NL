@@ -8,7 +8,7 @@ labels:
     original: ""
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "There is nothing to translate here?"
   - name: "prefLabel"
     original: "Sound velocity and travel time in the water column"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
