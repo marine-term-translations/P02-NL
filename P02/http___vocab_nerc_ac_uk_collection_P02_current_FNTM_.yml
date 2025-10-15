@@ -8,7 +8,7 @@ labels:
     original: "Fish (Osteichthyes, Agnatha and Chrondrichthyes) size and shape parameters not included under FATM.  Most commonly used for the generic term 'fish' that maps to multiple taxa."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Grootte- en vormparameters van vissen (Osteichthyes, Agnatha en Chrondrichthyes) die niet onder onder FATM vallen. Meestal gebruikt voor de generieke term 'vis' die betrekking heeft op meerdere taxons."
   - name: "prefLabel"
     original: "Fish non taxonomy-related morphology"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
