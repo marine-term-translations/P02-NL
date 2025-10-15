@@ -8,7 +8,7 @@ labels:
     original: "Statistical parameters derived from wave data expressing wave properties other than height, period and direction"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Statistische parameters afgeleid van golfgegevens die andere golfeigenschappen uitdrukken dan hoogte, periode en richting"
   - name: "prefLabel"
     original: "Other wave statistics"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
