@@ -8,7 +8,7 @@ labels:
     original: "PCB concentrations in suspended particulate material, regarded as anything sampled by a water bottle, SAP, sediment trap etc.  This group is for SPM composition measurements (concentration per unit weight) and NOT concentrations per unit volume of the water column in the particulate phase."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "PCB-concentraties in zwevende deeltjes, zoals alles dat wordt bemonsterd via een waterfles, SAP, sedimentval etc. Deze groep is bedoeld voor SPM-samenstellingsmetingen (concentratie per gewichtseenheid) en NIET voor concentraties per volume-eenheid van de waterkolom in de deeltjesfase."
   - name: "prefLabel"
     original: "Concentration of polychlorobiphenyls (PCBs) in suspended particulate material"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
