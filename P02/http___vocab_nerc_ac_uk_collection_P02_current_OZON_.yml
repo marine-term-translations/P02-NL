@@ -8,7 +8,7 @@ labels:
     original: "Ozone and oxygen concentration parameters in any phase of the atmosphere (but usually the gaseous phase)"
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Ozon- en zuurstofconcentratieparameters in elke fase van de atmosfeer (maar meestal de gasfase)"
   - name: "prefLabel"
     original: "Ozone and oxygen concentrations in the atmosphere"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
