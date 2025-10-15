@@ -8,7 +8,7 @@ labels:
     original: "Any enumeration (e.g. count, number per square metre) of viruses in any body of fresh or salt water."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - nl: "to be filled in"
+      - nl: "Elke opsomming (bijvoorbeeld aantal, aantal per vierkante meter) van virussen in zoet of zout water."
   - name: "prefLabel"
     original: "Virus abundance in water bodies"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
