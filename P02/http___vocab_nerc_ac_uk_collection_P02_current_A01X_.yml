@@ -3,17 +3,17 @@ labels:
   original: WC_SedFluxAlkeno
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Parameters quantifying the rate of alkenones (unsaturated aliphatic ketones)
     and alkenoates (carboxylic acid esters) sinking as particles through any body
     of water.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Sedimentation flux of alkenones and alkenoates in the water column
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P02/current/A01X/2/
