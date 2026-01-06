@@ -7,15 +7,15 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://marine-term-translations.github.io/P02-NL/LDES/test.ttl>
+    a tree:Node .
+    #a tree:Node ;
     
-    a tree:Node ;
-    
-    tree:relation [
-      a tree:LessThanRelation ;
-      tree:node <http://vocab.nerc.ac.uk/ldes/P02/2022_01_01_00_00_00_2022_12_31_23_59_59.ttl> ;
-      tree:path dc:modified ;
-      tree:value '2023-12-31T23:59:59'^^xsd:dateTime
-    ] .
+    #tree:relation [
+    #  a tree:LessThanRelation ;
+    #  tree:node <http://vocab.nerc.ac.uk/ldes/P02/2022_01_01_00_00_00_2022_12_31_23_59_59.ttl> ;
+    #  tree:path dc:modified ;
+    #  tree:value '2023-12-31T23:59:59'^^xsd:dateTime
+    #] .
     
 
 
@@ -173,3 +173,4 @@
     skos:definition 'Concentrations of total, organic and inorganic phosphorus per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.'^^xsd:string ;
     skos:notation 'SDN:P02::PXSD'^^xsd:string .
     
+
