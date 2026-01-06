@@ -6,7 +6,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://marine-term-translations.github.io/P02-NL/LDES/test.ttl>
+<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl>
     a tree:Node .
     #a tree:Node ;
     
@@ -50,10 +50,10 @@
     ];
     sh:targetClass skos:Concept
   ] ;
-  tree:view <https://marine-term-translations.github.io/P02-NL/LDES/test.ttl> ;
+  tree:view <https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> ;
   .
 
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FREP/3/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/FREP/3/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/FREP/3/>
     a skos:Concept ;
     dc:modified '2023-12-11T15:57:56'^^xsd:dateTime ;
@@ -68,7 +68,7 @@
     skos:definition 'Parameters describing the extent, intensity, timing and method of reproduction in fish (Osteichthyes, Agnatha and Chrondrichthyes) including fecundity, reproductive rates, spawning, and nursery grounds.'^^xsd:string ;
     skos:notation 'SDN:P02::FREP'^^xsd:string .
     
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LRWL/1/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/LRWL/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/LRWL/1/>
     a skos:Concept ;
     dc:modified '2023-08-30T11:08:53'^^xsd:dateTime ;
@@ -83,7 +83,7 @@
     skos:definition 'Parameters describing the vertical distance (height or elevation) of river or lake water from a specified point of reference to the water\'s surface. Rivers are defined as being upstream from the tidal limit.'^^xsd:string ;
     skos:notation 'SDN:P02::LRWL'^^xsd:string .
     
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SPCN/1/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SPCN/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SPCN/1/>
     a skos:Concept ;
     dc:modified '2023-08-02T11:45:27'^^xsd:dateTime ;
@@ -98,7 +98,7 @@
     skos:definition 'Physical, chemical or optical properties of individual solid particles.'^^xsd:string ;
     skos:notation 'SDN:P02::SPCN'^^xsd:string .
     
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/EPSV/1/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/EPSV/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/EPSV/1/>
     a skos:Concept ;
     dc:modified '2023-08-01T15:58:28'^^xsd:dateTime ;
@@ -113,7 +113,7 @@
     skos:definition 'Raw direct output parameters from microstructure sensors, probes or profilers that are used to determine the distribution of water body properties on a millimetric scale.'^^xsd:string ;
     skos:notation 'SDN:P02::EPSV'^^xsd:string .
     
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/1/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/1/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/1/>
     a skos:Concept ;
     dc:modified '2023-07-03T11:35:46'^^xsd:dateTime ;
@@ -128,7 +128,7 @@
     skos:definition 'Parameters associated with seafloor landforms and features such as bedforms, seamounts and ridges, including morphology, evolution and associated transport phenomena.'^^xsd:string ;
     skos:notation 'SDN:P02::SBGE'^^xsd:string .
     
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDPW/4/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDPW/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MDPW/4/>
     a skos:Concept ;
     dc:modified '2023-06-01T10:56:11'^^xsd:dateTime ;
@@ -143,7 +143,7 @@
     skos:definition 'Concentration parameters for trace metalloid elements and inorganic selenium species in water occupying the space between sediment grains. Trace metalloids are considered as B, Ge, As, Sb, Te, and Po (but not Si which is classed separately because of its major role in environmental chemistry).'^^xsd:string ;
     skos:notation 'SDN:P02::MDPW'^^xsd:string .
     
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDBO/4/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/MDBO/4/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/MDBO/4/>
     a skos:Concept ;
     dc:modified '2023-06-01T10:56:10'^^xsd:dateTime ;
@@ -158,7 +158,7 @@
     skos:definition 'Concentration parameters for trace metalloid elements and inorganic selenium species in either whole organisms or their constituent parts. Trace metalloids are considered as B, Ge, As, Sb, Te, and Po (but not Si which is classed separately because of its major role in environmental chemistry).'^^xsd:string ;
     skos:notation 'SDN:P02::MDBO'^^xsd:string .
     
-<https://marine-term-translations.github.io/P02-NL/LDES/no_nerc_latest.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/PXSD/2/> .
+<https://marine-term-translations.github.io/P02-NL/LDES/test_no_nerc.ttl> tree:member <http://vocab.nerc.ac.uk/collection/P02/current/PXSD/2/> .
 <http://vocab.nerc.ac.uk/collection/P02/current/PXSD/2/>
     a skos:Concept ;
     dc:modified '2023-04-21T11:55:38'^^xsd:dateTime ;
