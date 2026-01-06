@@ -120,7 +120,6 @@
     skos:altLabel 'Seabed_Geomorph'^^xsd:string ;
     skos:prefLabel 'Seabed geomorphology'^^xsd:string ;
     skos:definition 'Parameters associated with seafloor landforms and features such as bedforms, seamounts and ridges, including morphology, evolution and associated transport phenomena.'^^xsd:string ;
-    skos:notation 'SDN:P02::SBGE'^^xsd:string .
     dc:isVersionOf <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/>.
 <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/>
     dc:modified '2023-07-03T11:35:46'^^xsd:dateTime ;
